@@ -1,7 +1,7 @@
 [submodule "third-party/magma"]
 	path = third-party/magma
-	url = https://github.com/vcoda/magma.git
-	branch = master
+	url = https://github.com/SusannaMaria/magma.git
+	branch = feature/linux_support
 [submodule "third-party/rapid"]
 	path = third-party/rapid
 	url = https://github.com/vcoda/rapid.git
