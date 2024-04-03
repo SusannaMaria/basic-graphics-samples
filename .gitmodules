@@ -12,4 +12,5 @@
 	branch = master
 [submodule "third-party/quadric"]
 	path = third-party/quadric
-	url = https://github.com/vcoda/quadric.git
+	url = https://github.com/SusannaMaria/quadric.git
+	branch = feature/linux_support
